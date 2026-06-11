@@ -301,3 +301,6 @@ All experiments were conducted using a fixed random seed and a documented prepro
 ## License
 
 This project is intended for educational and research purposes using the Netflix Prize Dataset.
+
+Dataset used can be found in the following link along with the filtered dataset obtained after data processing.
+https://drive.google.com/drive/folders/1QI6Aqv2zfBao6qEBPF7s1778VGNKlBlO?usp=sharing
