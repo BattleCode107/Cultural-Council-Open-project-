@@ -1,4 +1,4 @@
-# Netflix Prize Recommendation System
+# Recommendation Systems for Personalized Content Discovery
 
 A machine learning project focused on personalized content discovery using the Netflix Prize Dataset.
 
