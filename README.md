@@ -8,6 +8,13 @@ The project was developed under standard hardware constraints (16GB RAM) using a
 
 ---
 
+## Submitted By
+
+| Name | Enrollment Number | Email |
+|--------|--------|--------|
+| Nishant | 241137089 | nishant1@me.iitr.ac.in |
+| Vedant Ganesh Halkude | 24112113 | vedant_gh@ch.iitr.ac.in |
+
 ## Project Objectives
 
 The recommendation engine is designed to:
